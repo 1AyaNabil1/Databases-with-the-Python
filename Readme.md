@@ -1,4 +1,4 @@
-![course](img\11.png)
+![course](https://github.com/1AyaNabil1/Databases-with-the-Python/blob/main/img/11.png)
 # Databases with Python (MySQL, SQLite, MongoDB)
 
 This repository follows the Udemy course:
