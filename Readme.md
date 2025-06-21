@@ -1,4 +1,4 @@
-![Banner](img\image.png)
+![Banner](img\11.png)
 # Databases with Python (MySQL, SQLite, MongoDB)
 
 This repository follows the Udemy course:
