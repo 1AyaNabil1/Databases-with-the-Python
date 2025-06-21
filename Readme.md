@@ -1,4 +1,4 @@
-![Banner](img\11.png)
+![course](img\11.png)
 # Databases with Python (MySQL, SQLite, MongoDB)
 
 This repository follows the Udemy course:
